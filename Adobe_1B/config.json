@@ -1,0 +1,18 @@
+{
+  "persona": "HR professional",
+  "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+  "sample_configurations": {
+    "academic_research": {
+      "persona": "PhD Researcher in Computational Biology",
+      "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks"
+    },
+    "business_analysis": {
+      "persona": "Investment Analyst",
+      "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies"
+    },
+    "educational_content": {
+      "persona": "Undergraduate Chemistry Student",
+      "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics"
+    }
+  }
+} 

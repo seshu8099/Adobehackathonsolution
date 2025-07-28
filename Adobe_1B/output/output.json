@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-27T15:54:50.901457",
+    "processing_time_seconds": 68.18233895301819
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Cottage Cheese and Veggie Bowl",
+      "importance_rank": 1,
+      "page_number": 16
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Veggie and Cheese Quesadilla",
+      "importance_rank": 2,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Beef and Broccoli",
+      "importance_rank": 3,
+      "page_number": 7
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Turkey and Avocado Sandwich",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken and Mango Salad",
+      "importance_rank": 5,
+      "page_number": 13
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": ": o Arrange meats, cheeses, olives, and vegetables on a platter. o Serve with breadsticks.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": ": o Mix ground pork, chopped shrimp, diced mushrooms, julienned carrots, chopped green onions, minced garlic, fish sauce, and sugar in a bowl. o Place a spoonful of filling on each wrapper and roll tightly. o Fry in hot oil until golden. o Drain on paper towels and serve with dipping sauce.",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "1 pound ground beef  1 small onion, diced  2 cloves garlic, minced  1 carrot, grated  1 celery stalk, diced  1 can (28 ounces) crushed tomatoes  14 cup tomato paste  12 cup red wine (optional)  1 teaspoon dried oregano  1 teaspoon dried basil  Salt and pepper to taste  Spaghetti for serving  Grated Parmesan cheese for garnish",
+      "page_number": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper.  Season with salt and pepper.  Serve immediately.",
+      "page_number": 16
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": ": o Prepare each side dish separately. o Arrange on small plates. o Serve as accompaniments to the main meal.",
+      "page_number": 5
+    }
+  ]
+}
