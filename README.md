@@ -3,9 +3,13 @@ This repository contains the complete solution for Challenges 1a and 1b, develop
 
 
 Team Information
+
 Team Name: Codingwarriors77
+
 Team Leader: cheekati saman
+
 Member: seshu kumar,rishiprasad
+
 Architecture Overview
 The solution is designed as a modular Python application with two main components:
 
