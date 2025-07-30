@@ -1,5 +1,5 @@
 Adobe India Hackathon 2025 - Solution
-This repository contains the complete solution for Challenges 1a and 1b, developed by Team Codient. The solution is packaged as a single, efficient, and offline-capable Docker container.
+This repository contains the complete solution for Challenges 1a and 1b. The solution is packaged as a single, efficient, and offline-capable Docker container.
 
 
 Team Information
