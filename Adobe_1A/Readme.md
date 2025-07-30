@@ -123,12 +123,3 @@ Each PDF produces `<filename>.json` with this schema:
 
 ---
 
-## 🚩 Contributing
-
-Feel free to open issues or PRs if you discover edge-cases or have suggestions for improving scoring heuristics and clustering.
-
----
-
-## 📜 License
-
-This project is released under the **MIT License**. Feel free to adapt for your own use.
